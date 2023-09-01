@@ -65,7 +65,7 @@ dependencies {
     implementation("androidx.core:core-ktx:1.10.1")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.1")
     implementation("androidx.activity:activity-compose:1.7.2")
-    implementation("com.google.dagger:dagger:2.47")
+    implementation("com.google.dagger:dagger:2.40")
     kapt("com.google.dagger:dagger-android-processor:2.15")
-    kapt("com.google.dagger:dagger-compiler:2.47")
+    kapt("com.google.dagger:dagger-compiler:2.40")
 }
